@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://twitter.com/snowz2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snowz2k" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@snowz2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@snowz2k" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jacksonnz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jacksonnz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
