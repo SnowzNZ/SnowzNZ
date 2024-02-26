@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-#### 👀 Currently working on an experimental Minecraft server software fork.
+#### 👀 Currently working on SnowReports
 
 ### Skills
 
-![Skills](https://skillicons.dev/icons?i=py,java,html,css,tailwind,nextjs)
+![Skills](https://skillicons.dev/icons?i=py,java,html,css,tailwind)
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=vscode,idea,git,github,githubactions,linux,vercel)
+![Tools](https://skillicons.dev/icons?i=vscode,idea,git,github,linux)
 
 ### Stats
 
