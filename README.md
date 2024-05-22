@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### 👀 Currently working on SnowReports
+#### 👀 Currently working on school stuff
 
 ### Skills
 
