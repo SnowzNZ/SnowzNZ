@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi 👋
 
-#### 👀 Currently working on school stuff
+Currently working on school projects and developing for [oceanias.net](https://github.com/devceanias)
+
+Discord: @snowznz
 
 ### Skills
 
@@ -8,7 +10,7 @@
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=vscode,idea,git,github,linux)
+![Tools](https://skillicons.dev/icons?i=vscode,idea,git,github,windows)
 
 ### Stats
 
