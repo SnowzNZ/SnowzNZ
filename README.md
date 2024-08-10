@@ -1,12 +1,10 @@
 ## Hi 👋
 
-Currently working on school projects and developing for [oceanias.net](https://github.com/devceanias)
+Developer at [oceanias.net](https://github.com/devceanias)
 
-Discord: @snowznz
+### Languages
 
-### Skills
-
-![Skills](https://skillicons.dev/icons?i=py,java,html,css,tailwind)
+![Languages](https://skillicons.dev/icons?i=py,java)
 
 ### Tools
 
