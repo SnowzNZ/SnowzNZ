@@ -1,16 +1,5 @@
-## Hi 👋
-
 Developer at [oceanias.net](https://github.com/devceanias)
 
-### Languages
+[![wakatime](https://wakatime.com/badge/user/7f1c1ba7-f740-4a34-96f8-05a9f23db5b6.svg)](https://wakatime.com/@7f1c1ba7-f740-4a34-96f8-05a9f23db5b6)
 
-![Languages](https://skillicons.dev/icons?i=py,java)
-
-### Tools
-
-![Tools](https://skillicons.dev/icons?i=vscode,idea,git,github,windows)
-
-### Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SnowzNZ&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&line_height=20)
-![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowzNZ&theme=tokyonight&layout=compact&count_private=true&hide_border=true)
+![Metrics](/github-metrics.svg)
