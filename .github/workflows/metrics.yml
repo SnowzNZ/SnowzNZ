@@ -45,3 +45,4 @@ jobs:
           plugin_lines_sections: base
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
