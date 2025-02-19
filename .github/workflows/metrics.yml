@@ -46,3 +46,7 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os
+          plugin_music: true
+          plugin_music_provider: spotify
+          plugin_music_token: ${{ secrets.SPOTIFY_TOKEN }}
+          plugin_music_mode: recent
